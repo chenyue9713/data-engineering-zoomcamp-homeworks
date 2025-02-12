@@ -92,4 +92,5 @@ It is best practice in Big Query to always cluster your data:
 
 ## (Bonus: Not worth points) Question 9:
 No Points: Write a `SELECT count(*)` query FROM the materialized table you created. How many bytes does it estimate will be read? Why?
+
 The estimate bytes is 0, it is because the metadata contains a record about the number of rows for this table, so the scannig table is no needed.
