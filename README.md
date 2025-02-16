@@ -4,3 +4,5 @@
 [02-workflow-orchestration](./02-workflow-orchestration)
 
 [03-data-warehouse](./03-data-warehouse)
+
+[worshop](./workshop/dlt/)
