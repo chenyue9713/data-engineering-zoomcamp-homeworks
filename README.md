@@ -5,4 +5,8 @@
 
 [03-data-warehouse](./03-data-warehouse)
 
+[04-analytics-engineer](./04-analytics-engineering/)
+
+[05-batch](./05-batch/)
+
 [worshop](./workshop/dlt/)
